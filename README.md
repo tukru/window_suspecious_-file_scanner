@@ -1,4 +1,5 @@
-Bash Bunny Windows 11 Scan Payload README
+Bash Bunny Windows 11 Scan Payload.txt
+
 Introduction
 
 This Bash Bunny payload is designed to scan a Windows 11 system for suspicious files or data and save all information of interest to the loot folder on the Bash Bunny's storage device. The payload runs by executing a series of cmd commands that generate output files containing information about the target system.
